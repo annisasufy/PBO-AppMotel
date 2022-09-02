@@ -1,0 +1,8 @@
+D:\NISOL\Kuliah\KELAS\3_PBO\AppMotel\AppMotel\obj\Debug\AppMotel.csproj.AssemblyReference.cache
+D:\NISOL\Kuliah\KELAS\3_PBO\AppMotel\AppMotel\obj\Debug\AppMotel.csproj.SuggestedBindingRedirects.cache
+D:\NISOL\Kuliah\KELAS\3_PBO\AppMotel\AppMotel\obj\Debug\AppMotel.csproj.CoreCompileInputs.cache
+D:\NISOL\Kuliah\KELAS\3_PBO\AppMotel\AppMotel\bin\Debug\AppMotel.exe.config
+D:\NISOL\Kuliah\KELAS\3_PBO\AppMotel\AppMotel\bin\Debug\AppMotel.exe
+D:\NISOL\Kuliah\KELAS\3_PBO\AppMotel\AppMotel\bin\Debug\AppMotel.pdb
+D:\NISOL\Kuliah\KELAS\3_PBO\AppMotel\AppMotel\obj\Debug\AppMotel.exe
+D:\NISOL\Kuliah\KELAS\3_PBO\AppMotel\AppMotel\obj\Debug\AppMotel.pdb
